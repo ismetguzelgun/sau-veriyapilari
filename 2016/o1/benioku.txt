@@ -1,0 +1,2 @@
+Vektör kullanmak konusunda emin olamadığım için integer tipinde 
+bir dizi kullandım ve 52 yani bir kart destesiyle sınırlandırdım.

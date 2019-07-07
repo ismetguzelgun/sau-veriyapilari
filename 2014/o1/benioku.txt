@@ -1,0 +1,5 @@
+Lütfen kodu derlemeden önce komut satýrýna make clean komutunu girmeyi ihmal etmeyin.
+Baþka bir bilgisayarda derlediðimizde makefile çalýþmadýðý için epey telaþlandýk.
+Ve bunu clean ile çözdük.
+
+Teþekkürler, iyi çalýþmalar.
